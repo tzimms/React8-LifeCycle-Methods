@@ -1,3 +1,7 @@
+This project is deployed on: 
+https:/5e11f8088989510e2eed5065--goofy-clarke-25eb69.netlify.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
